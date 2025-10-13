@@ -1,4 +1,4 @@
-# data-structures-project-2
+
 # ⚽ World Cup Statistics Manager
 
 A C++ project that implements a World Cup management system, designed for efficient tracking of teams, players, and matches using custom data structures.
