@@ -5,6 +5,7 @@ A C++ project that implements a World Cup management system, designed for effici
 It combines AVL trees, Rank Trees, and a Union-Find Hash system to handle complex operations while maintaining optimal runtime and memory performance.
 
 🔹 Key Concepts: AVL Trees, Rank Trees, Union-Find, Hash Tables, Algorithm Design, Data Structures
+
 🔹 Features:
 
 Manage all teams and players in dynamic data structures
