@@ -1,5 +1,5 @@
 # data-structures-project-2
-⚽ World Cup Statistics Manager
+#⚽ World Cup Statistics Manager
 
 A C++ project that implements a World Cup management system, designed for efficient tracking of teams, players, and matches using custom data structures.
 It combines AVL trees, Rank Trees, and a Union-Find Hash system to handle complex operations while maintaining optimal runtime and memory performance.
@@ -34,6 +34,6 @@ Each Team tracks its players, points, ability sum, matches, and team spirit perm
 
 Each Player stores ID, ability, cards, games played, role (goalkeeper), and partial spirit
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 Language: C++
 Core Concepts: AVL Trees | Union-Find | Hashing | Algorithms | Object-Oriented Design | Memory Management
