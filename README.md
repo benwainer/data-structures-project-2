@@ -3,6 +3,8 @@
 
 A C++ project that implements a World Cup management system, designed for efficient tracking of teams, players, and matches using custom data structures.
 It combines AVL trees, Rank Trees, and a Union-Find Hash system to handle complex operations while maintaining optimal runtime and memory performance.
+📄 Important:
+To fully understand the system architecture, data structures, and complexity guarantees, please review dry.pdf before diving into the code.
 
 🔹 **Key Concepts**: AVL Trees, Rank Trees, Union-Find, Hash Tables, Algorithm Design, Data Structures
 
